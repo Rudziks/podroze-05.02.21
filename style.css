@@ -1,0 +1,146 @@
+body{
+    background-color: black; 
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.hh{
+    text-align: center;
+}
+
+.f-h1{
+    color: rgb(221, 221, 130);
+}
+
+.f-h2{
+    color: white;
+}
+
+.f-nav-1{
+    color: white;
+    font-size: 1.2rem;
+    border-bottom: solid 0.2rem white;
+}
+
+.f-nav{
+    color: rgb(221, 221, 130);
+    font-size: 1.2rem;
+}
+
+.nav-m{
+    text-align: center;
+}
+
+.f-br{
+    border-bottom: solid 0.2rem rgb(221, 221, 130);
+}
+
+.nav-m{
+    margin-left: 38%;
+}
+
+.bg-img{
+    background-image: url(./IMG/KOLOSEUM.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+
+.n-t{
+padding: 0.6rem;
+}
+
+.bg-c{
+    background-color: rgb(87, 85, 85)66, 66, 66);
+}
+
+.f-m{
+    color: rgb(208, 212, 144);
+}
+
+.all{
+    background-color: rgb(41, 41, 41);
+}
+
+.f-m-w{
+    color: white;
+}
+
+.mn-br{
+    border-left: solid orange;
+}
+
+.btn-mn{
+    background-color: orange;
+}
+
+.mn-mg{
+    padding-left: 0.6rem;
+}
+
+.img-h{
+    width: 10vw;
+}
+
+.f-m-2{
+    color: rgb(184, 228, 64);
+}
+
+.btn-lm{
+    margin-left: 10rem;
+    background-color: orange;
+    color: white;
+    border-radius: solid white 1rem ;
+}
+
+.c-b-1{
+    color: rgb(119, 119, 206);
+}
+
+.c-b{
+    color: rgb(179, 179, 179);
+}
+
+.br-9{
+    border-left: solid rgb(37, 37, 37) 0.2rem;
+}
+
+.img-h-r{
+    float: right;
+    width: 20vw;
+}
+
+.img-h-l{
+    float: left;
+    width: 10vw;
+}
+
+.txt2{
+    margin-top: 8rem;
+}
+
+.txt3{
+    margin-top: 8rem;
+}
+
+.b-f{
+    color: rgb(22, 80, 206);
+}
+
+.y-f{
+    color: yellow;
+}
+
+.br-d{
+    border-bottom: solid white 0.2rem;
+}
+
+.s-img-l{
+    height: 8vh;
+    float: left;
+}
+
+.s-img-r{
+    height: 4vh;
+    float: right;
+}
